@@ -20,8 +20,6 @@
 
 Senior Data Scientist specializing in **signal processing** and **machine learning** for industrial applications. Over 10 years of research and industry experience in vibration analysis, compression algorithms, and bearing fault detection. Dual PhD in Acoustics (INSA Lyon) and Automation Engineering (National University of Colombia). Published researcher, award recipient, and experienced lecturer. ❤️✌️
 
-<img align="right" alt="GIF" width="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
 **About me:**
 
 - 🔭 Currently working at **MaintainX** on predictive maintenance & bearing fault detection pipelines.
