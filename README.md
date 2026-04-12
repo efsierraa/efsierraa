@@ -78,7 +78,3 @@ Senior Data Scientist specializing in **signal processing** and **machine learni
 - 🎖️ Colciencias Scholarship (2013–2015)
 - 🎖️ PALSE Scholarship (2017–2019)
 - 🎖️ IDEX Scholarship (2017–2019)
-
----
-
-![efsierraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=efsierraa&show_icons=true&hide_border=true&theme=default)
